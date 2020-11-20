@@ -2,6 +2,9 @@
 Programming challenge I co-organized with another student at the Lens Institute of Technology.
 
 
+<img alt="logo python challenge 2020" src="/python-challenge-2020-logo.jpg" width="250px">
+
+
 ## Exercices
  
 ### Exercice 1 : Théorème de Pythongore
