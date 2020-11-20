@@ -7,7 +7,9 @@ Programming challenge I co-organized with another student at the Lens Institute 
 ---
 
 ## Exercices
- 
+
+*Les exercices sont classés par difficulté croissante.* 
+
 ### Exercice 1 : Théorème de Pythongore
 > [Énoncé](https://github.com/FloVnst/Python-Challenge-2020/blob/main/exercises/python-challenge-2020_exercice-01.pdf)  
 > [Proposition de solution](https://github.com/FloVnst/Python-Challenge-2020/blob/main/solutions/pythongore.py)  
