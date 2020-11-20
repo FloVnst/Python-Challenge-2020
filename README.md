@@ -1,5 +1,5 @@
 # Python-Challenge-2020
-Programming challenge I co-organized with another student at the Lens Institute of Technology.
+Challenge de programmation co-organisé avec un autre étudiant pour les première année de DUT Informatique.
 
 
 <img alt="logo python challenge 2020" src="/python-challenge-2020-logo.jpg" width="250px">
