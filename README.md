@@ -47,10 +47,10 @@ Programming challenge I co-organized with another student at the Lens Institute 
 
 ---
 
-Rédaction des exercices : Florian Vaneste  
-Design graphique : Florian Vaneste  
-Création de tests unitaires : Florian Vaneste & [Tristan Leroy](https://github.com/redbow26)  
-API de vérification des exercices : [Tristan Leroy](https://github.com/redbow26)  
+**Rédaction des exercices :** [Florian Vaneste](https://github.com/FloVnst)  
+**Design graphique :** [Florian Vaneste](https://github.com/FloVnst)  
+**Création de tests unitaires :** [Florian Vaneste](https://github.com/FloVnst) & [Tristan Leroy](https://github.com/redbow26)  
+**API de vérification des exercices :** [Tristan Leroy](https://github.com/redbow26)  
 
 
-Credits : Freepik
+**Credits :** Freepik
